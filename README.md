@@ -3,13 +3,13 @@
 Expressso project is about doing the business of shopping over the internet which is an E-Commerce website. The objective of this project is to setup a virtual store on the internet  i.e an E-Commerce store where products like groceries, clothes, gadgets can be bought easily.
 
 ![](website-images/website-HomePage.PNG)
-![](website-images/website-Gallery.PNG)
-![](website-images/website-Login.PNG)
-![](website-images/website-Parking.PNG)
-![](website-images/website-Complaints.PNG)
-![](website-images/website-Notice.PNG)
-![](website-images/website-Visitors.PNG)
-![](website-images/website-Employee.PNG)
+![](website-images/website-Search.PNG)
+![](website-images/website-products.PNG)
+![](website-images/website-Cart.PNG)
+![](website-images/website-Order.PNG)
+![](website-images/website-Invoice.PNG)
+![](website-images/website-Analytics.PNG)
+![](website-images/website-manage-products.PNG)
 
 ## Technologies used in the project
 
