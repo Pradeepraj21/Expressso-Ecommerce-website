@@ -25,7 +25,7 @@ Expressso project is about doing the business of shopping over the internet whic
 
 ## Deployement on 000webhostapp
 
-[![](website-images/website-HomePage.PNG)](http://pradeeprajexpressso.000webhostapp.com/)
+[![](website-images/website-000webhost.PNG)](http://pradeeprajexpressso.000webhostapp.com/)
 
 ## Future Scope
 
